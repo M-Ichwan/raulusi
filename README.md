@@ -1,2 +1,3 @@
-# raulusi
+# reso
+lusi
 rencana resolusi
